@@ -18,3 +18,5 @@ colleges can get projects for final year and for Class 12th Board Projects.
 It is completely responsive website, to provide smooth experience...😎
 
 If you like my project, give it a star 😁😁😁
+
+Link:http://127.0.0.1:30000/index.html
